@@ -1,0 +1,71 @@
+Package: ALS
+Version: 11.6.5-2
+Architecture: iphoneos-arm
+Installed-Size: 35364
+Depends: mobilesubstrate, coreutils-bin, zip, unzip
+Conflicts: app.weiphone.AWZ, app.weiphone.IGG, app.weiphone.NZT, app.weiphone.LRN, app.weiphone.HBS, app.weiphone.YOY
+Filename: ./deb/ALS_11.6.5.deb
+Size: 11756486
+MD5sum: 2c0b51ad22b559c79247e531127c12d7
+SHA1: c4366e9502a45b08e29713cb1130732d7e8e64cc
+SHA256: cd718af05bf3a6d102a2bd1a3276c1f09d3770fff24acf98fc08d309f5289235
+Section: 一键新机改串清理
+Priority: standard
+Author: als
+Icon: file:///Applications/ALS.app/AppIcon60x60@2x.png
+Name: ALS爱立思 全新一键新机 iOS全系越狱可用
+
+Package: AWZ
+Version: 10.5.7-1
+Architecture: iphoneos-arm
+Installed-Size: 34544
+Depends: mobilesubstrate, coreutils-bin, zip, unzip
+Conflicts: app.weiphone.ALS, app.weiphone.IGG, app.weiphone.NZT, app.weiphone.LRN, app.weiphone.HBS, app.weiphone.YOY
+Filename: ./deb/AWZ_10.5.7.deb
+Size: 11688470
+MD5sum: bb3e8b13e08cd4b9365d6efbb3058dc0
+SHA1: eb614fd1530a7ca95f59b5c8095df8e369b3a5c1
+SHA256: b6455413dc4864d76ec75af2c05c0127e5e46cb41f200261c1c1600a5dfcf3aa
+Section: 一键新机改串清理
+Priority: standard
+Author: awz
+Icon: file:///Applications/AWZ.app/AWZAppIcon60x60@2x.png
+Name: AWZ爱伪装 最新版 支持NZT备份导入 全系越狱可用
+
+Package: AWZ8
+Version: 8.2.5-1
+Architecture: iphoneos-arm
+Essential: no
+Installed-Size: 22296
+Depends: mobilesubstrate, coreutils-bin, zip, unzip
+Conflicts: app.weiphone.ALS, app.weiphone.IGG, app.weiphone.NZT, app.weiphone.LRN
+Filename: ./deb/AWZ_8.2.5.deb
+Size: 6167918
+MD5sum: b0c28ef02b756c1667556297c02ce9f3
+SHA1: 45fd8a3fb2c477142f315979c498e0b0559cf839
+SHA256: c2525e8cb9f3f05d1673ecb93ec4aa9d9db0cfc99db7062510447773d2223903
+Section: 历史版本包
+Priority: standard
+Tag: role::enduser
+Author: awz
+Icon: file:///Applications/AWZ.app/AWZAppIcon60x60@2x.png
+Name: AWZ爱伪装 兼容版 v8.2.5
+
+Package: com.touchsprite.ios.arm64.pro.v3
+Version: 3.0.7-6+debug
+Architecture: iphoneos-arm
+Maintainer: 北京帮你玩科技有限公司 <support@touchsprite.com>
+Installed-Size: 45536
+Depends: mobilesubstrate, firmware (>= 7.0)
+Replaces: com.ts.touchsprite, com.darwindev.touchsprite, repo.so.touchsprite, touchsprite.178, com.touchsprite.ios
+Filename: ./deb/TouchSpritePro64_3.0.7.deb
+Size: 14603294
+MD5sum: 55d53efbe02dd87fc8988da71f481cdc
+SHA1: 2f61318b9323d3d73e361c8921fd5fbaac010e33
+SHA256: 8c71418904c075877896d3c9ab77c2a6e27281b15a785f6ea743dcca8d72b915
+Section: 触动专业版
+Author: 北京帮你玩科技有限公司 <support@touchsprite.com>
+Icon: file:///Applications/TouchSprite.app/icon.png
+Name: 触动精灵专业版(arm64)
+Sponsor: 北京帮你玩科技有限公司 <http://www.touchsprite.com>
+
