@@ -1,12 +1,10 @@
-## 构建Cydia源
-
-https://gitee.com/lich0/t/raw/master/
-
-```
-cd cydia
-./rebuild_source.sh .
-修改Packages
-./rebuild_source.sh # 生成bz2/gz/xz文件
-python -m SimpleHTTPServer 80
-```
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>主页</title>
+</head>
+<body>
+<p>联系我们:QQ群560017652</p>
+<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://lich4.github.io">增加到Cydia源</a>
+</body>
+</html>
